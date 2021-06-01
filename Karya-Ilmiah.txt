@@ -1,4 +1,8 @@
 Karya Ilmiah
 BAB I PENDAHULUAN
+a) Latar Belakang Masalah
+b) Rumusan Masalah
 BAB II PEMBAHASAN
 BAB II PENUTUP
+a) Kesimpulan
+b) Saran
